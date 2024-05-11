@@ -3,7 +3,7 @@
 ## Description
 
 - 12 simple Python games built in CodeSkulptor (a browser-based Python development environment)
-- More detailed information can be found here: https://cool-spleen-727.notion.site/Simple-Python-project-be1bd5540aeb41fc9697099323c2670d?pvs=4
+- More details can be found here: https://cool-spleen-727.notion.site/Simple-Python-project-be1bd5540aeb41fc9697099323c2670d?pvs=4
 
 ### Dependencies
 
